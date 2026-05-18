@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hossam Sheref!
+# 👋 Hi, I'm Hossam Shiref!
 
 ### 🎯 Future Penetration Tester | 15 Years Old
 I am a passionate student from Egypt (2nd Prep) currently building a solid foundation in Computer Science to excel in the field of **Cybersecurity**. I believe in mastering the "low-level" details to become a better security professional.
